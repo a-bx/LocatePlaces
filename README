@@ -1,0 +1,19 @@
+LocatePlaces is an iOS App that allows to show the location of the Continuum's office and trace a route from the user location, also show embebed web content (Twitter and Demo), it connect with flickr API and shows the pictures like an iPhone Photogallery. 
+
+ This application uses:  
+
+- KissXML: to parse XML responses (http://code.google.com/p/kissxml/) 
+
+- Ojb-C JSON parser: to parse JSON responses (http://code.google.com/p/json-framework/)  
+
+- GoogleToolbox: to manage urls (http://code.google.com/p/google-toolbox-for-mac) 
+
+- CSMapAnnotation: to show the image annotations at map 
+
+- CSMapRoute: to trace a route between points  
+
+- Google Maps API (directions/json): to find all the points and a possible route between points. (walking) (http://code.google.com/intl/es-ES/apis/maps/documentation/directions/)  
+
+- Three20: to make everything easy. (http://www.three20.info)  
+
+- To make a photo, I used TTRemote Example from three20.info 
