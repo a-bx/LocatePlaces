@@ -1,0 +1,4 @@
+/Users/abrahambarrera/Develop/continuum/mobile/continuumlocations/client/LocatePlaces/Classes/../LPMapViewController.m:663: warning: incomplete implementation of class 'LPMapViewController'
+/Users/abrahambarrera/Develop/continuum/mobile/continuumlocations/client/LocatePlaces/Classes/../LPMapViewController.m:663: warning: method definition for '-putSelected' not found
+/Users/abrahambarrera/Develop/continuum/mobile/continuumlocations/client/LocatePlaces/Classes/../LPMapViewController.m:663: warning: method definition for '-applyFilter' not found
+/Users/abrahambarrera/Develop/continuum/mobile/continuumlocations/client/LocatePlaces/Classes/../LPMapViewController.m:663: warning: method definition for '-actionFilterViewPickerOk:' not found
